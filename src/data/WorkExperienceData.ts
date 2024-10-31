@@ -1,0 +1,92 @@
+import JobInfo from "./JobInfo";
+
+export default [
+  new JobInfo({
+    title: "PixiJS Developer",
+    company: "TokenWin",
+    startDate: "March 2024",
+    endDate: "Nowadays",
+    responsibilities: [
+      "• Develop and maintain blockchain-based games using PixiJS",
+      "• Implement engaging and smooth animations for game elements and NFT displays",
+      "• Collaborate with designers and developers to create intuitive, user-friendly gaming interfaces",
+      "• Optimize applications for maximum speed and scalability",
+      "• Ensure the technical feasibility of UI/UX designs",
+      "• Write well-structured, efficient and maintainable code",
+      "• Participate in code reviews and collaborate with the team to improve development processes",
+      "• Troubleshoot and debug to resolve any technical issues",
+    ],
+    techStack: ["PixiJS", "TypeScript", "Math", "Algorithms", "Figma", "iGaming"],
+  }),
+  new JobInfo({
+    title: "Freelance Developer",
+    company: "As an Individual Entrepreneur",
+    startDate: "January 2024",
+    endDate: "Nowadays",
+    responsibilities: [
+      "• Developing Playable Ads that meet the standards of various platforms, such as Applovin, Facebook, Google, Ironsource, Liftoff, Mintegral, Moloco, Snapchat, TikTok, Unity, Vungle and other platforms",
+      "• Developing various browser games, with mechanics like drag-and-drop, clicker, idle, etc",
+      "• Making sure the games meet all the required standards, such as build size, responsiveness, etc",
+      "• Using my templates for PixiJS, Phaser, written in JavaScript and TypeScript",
+    ],
+    techStack: ["PixiJS", "Phaser3", "Photoshop", "Math", "Algorithms", "Spine", "MVC", "Client-Server Games"],
+  }),
+  new JobInfo({
+    title: "Front End Game Developer",
+    company: "PoggiPlay",
+    startDate: "July 2023",
+    endDate: "March 2024",
+    responsibilities: [
+      "• Develop the software part of games using PixiJS",
+      "• Development and support of the own SDK",
+      "• Adding new features to older games",
+      "• Debugging and diagnosing issues in code",
+      "• Working with legacy code",
+      "• Follow the development pipeline",
+    ],
+    techStack: ["PixiJS", "VueJS", "Spine", "iGaming"],
+  }),
+  new JobInfo({
+    title: "Marketing Creatives Developer",
+    company: "Playrix",
+    startDate: "January 2023",
+    endDate: "June 2023",
+    responsibilities: [
+      "• Develop the software part of creatives and mini-games using JavaScript (PixiJS, MatterJS)",
+      "• Perform creatives localization tasks",
+      "• Take an active part in team meetings",
+      "• Follow the development pipeline",
+      "• Monitor major trends in marketing creatives and programming",
+    ],
+    techStack: ["PixiJS", "MatterJS", "Spine", "Photoshop", "Miro", "Playable Ads"],
+  }),
+  new JobInfo({
+    title: "HTML5 Game Developer",
+    company: "Double Coconut",
+    startDate: "March 2022",
+    endDate: "February 2023",
+    responsibilities: [
+      "• Making HTML5 Games with Phaser3, Phaser2 engines, using TypeScript",
+      "• Designing and implementing solutions for standard and complex programming tasks",
+      "• Writing and implementing clean and scalable code",
+      "• Participating in code reviews",
+      "• Providing guidance to entry-level, juniors engineers",
+      "• Assisting with client, customer and communication related to specific tasks, features, assignments",
+    ],
+    techStack: ["Phaser3", "PixiJS", "Spine", "Figma", "Client-Server Games"],
+  }),
+  new JobInfo({
+    title: "HTML5 Game Developer",
+    company: "Koreez Games / Armath",
+    startDate: "March 2020",
+    endDate: "March 2022",
+    responsibilities: [
+      "• Making HTML5 Games with Phaser2 and PixiJS, using TypeScript and JavaScript",
+      "• Developed playable ads and mini-games for many well-known games (The games were in different genres, such as idle games, tycoon, casino, casual, arcade, match3, slots, and others)",
+      "• Designing and implementing solutions for standard and complex programming tasks",
+      "• Debugging and diagnosing issues in code",
+    ],
+    techStack: ["Phaser2", "PixiJS", "Spine", "Photoshop", "Math", "Algorithms", "Playable Ads"],
+  }),
+];
+
