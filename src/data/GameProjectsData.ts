@@ -18,27 +18,34 @@ export default [
   ),
   new ProjectData(
     "project-3",
+    "Endless Sorting Game (PixiJS)",
+    "img/projects/endless-sorting-game.png",
+    `https://birdman1104.github.io/endless-sorting-game/`,
+    "#F4511E"
+  ),
+  new ProjectData(
+    "project-4",
     "HappyGames Test Task (PixiJS, Client-Server)",
     "img/projects/happyGames.png",
     `https://birdman1104.github.io/happygames-test-task/`,
     "#039BE5"
   ),
   new ProjectData(
-    "project-4",
+    "project-5",
     "Horses Ride Game Animation (PixiJS, Client-Server)",
     "img/projects/horses-ride.png",
     `https://birdman1104.github.io/horses-ride-animation/`,
     "#43A047"
   ),
   new ProjectData(
-    "project-5",
+    "project-6",
     "Crash Game Animation (PixiJS)",
     "img/projects/crash.png",
     `https://birdman1104.github.io/aviator-mechanics/`,
     "#FFB300"
   ),
   new ProjectData(
-    "project-6",
+    "project-7",
     "Klebo Games Test Task (Phaser3)",
     "img/projects/klebo-games.png",
     `https://birdman1104.github.io/klebo-games-test-task/`,
